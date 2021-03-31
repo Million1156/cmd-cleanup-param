@@ -1,5 +1,5 @@
 # MSGCleanup • 
-<p>CommandCleanup is a private bot that can delete a variety of different messages, whether it be messages that begin with the most common command symbols, messages by a certain user or messages sent by bots, there is a command/parameter that'll help clean up your chats regardless of what's posted.</p>
+<p>MSGCleanup is a private bot that can delete a variety of different messages, whether it be messages that begin with the most common command symbols, messages by a certain user or messages sent by bots, there is a command/parameter that'll help clean up your chats regardless of what's posted.</p>
 
 ---
 
