@@ -1,5 +1,5 @@
-# CommandCleanup • 
-<p>CommandCleanup is a bot that can delete a variety of different messages, whether it be messages that begin with the most common command symbols, messages by a certain user or messages sent by bots, there is a command/parameter that'll help clean up your chats regardless of what's posted.</p>
+# MSGCleanup • 
+<p>CommandCleanup is a private bot that can delete a variety of different messages, whether it be messages that begin with the most common command symbols, messages by a certain user or messages sent by bots, there is a command/parameter that'll help clean up your chats regardless of what's posted.</p>
 
 ---
 
@@ -8,9 +8,6 @@
 ###### cleanup 
 > Pairing this command with [parameters](#parameters) gives you **MAXIMUM** chat moderation control</br>
 > <samp>requires permissions: `MANAGE MESSAGES`</samp>
-
-###### invite
-> Get an invite link to add the bot to more servers
 
 ###### help
 > Sends helpful documentation about commands, their usages, their aliases and even a short description
@@ -99,10 +96,6 @@ Below is a list of all available parameters and what they do.. You can use **mul
 
 ###### Won't delete messages older than 14 days?
 >  *We touched up on why this occurs earlier in the FAQs section, talking about [discord bulk-delete limitations](#discord-bulk-delete-limitation)*
-
-###### I've added the bot to my server but it isn't working..
->  *There could be many number of reasons, the most common though is incorrect permissions inside the channel. Best way to check is make sure the bots (and any of it's roles) aren't denied access to manage messages inside the guild or the channel. If errors persist then feel free to stop by the support server linked below*
-
 ###### How do I get a discord id?
 >  *Here is a great [support article](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) talking about how to copy ids from users, roles, messages, guilds, etc..*
 
